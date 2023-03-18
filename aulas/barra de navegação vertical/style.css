@@ -33,3 +33,12 @@ ul a:hover{
     color: #fff;
     background: #f99200 url(imagens/menu.png) no-repeat right bottom;
 }
+
+#home #navegacao-lateral .home a,
+#sobre #navegacao-lateral .sobre a,
+#servicos #navegacao-lateral .servicos a,
+#noticias #navegacao-lateral .noticias a,
+#contato #navegacao-lateral .contato a{
+    color: #fff;
+    background: #f99200 url(imagens/menu.png) no-repeat right bottom;
+}
